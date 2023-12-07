@@ -1,0 +1,24 @@
+arrays;
+    Arrays are collection of items.items are stored based on the indexex. When we store
+    the first item an index zero is assigned to it. we can use this index to access
+    the elements back from the array.
+why we should learn arrays?
+    1)with the help Of arrays it is possible to store and manipulate large amounts of data
+    using loops which was not possible with variables.
+limitations of enhanced for loop
+    1)we cant skip items
+    2)we cant go in backward direction
+    3)we cant update the item in the array
+
+2D Arrays;
+    2D array is a collection of multiple 1D arrays. for 2D arrays we write 2 [][]
+ why we should learn about 2D;
+    2D arrays help us to store the data in the form of tables like storing and manipulating
+the data from excel files.
+
+
+
+shortcuts
+    1)iter to write an enhanced loop
+    2)fori for a normal loop
+    3)

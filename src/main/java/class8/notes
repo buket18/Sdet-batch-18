@@ -1,0 +1,16 @@
+Arrays:
+    it is a collection of similar items. the data is
+    stored in consecutive memory locations inside the memory. we use indexing to store and access the
+    data in an array.every element that we store in an array is assigned a number, these numbers start from 0,
+    first element will be assigned number 0 then 1 and so on.
+
+why we should use arrays:
+    it is not feasible to use variables or large amounts of data.
+    storing, managing, searching large amounts of data become easier with arrays and loops.
+
+Syntax of arrays:
+    we can create arrays two ways
+    1) DataType[] nameOfArray={item1, item2,item3};
+    String[] names={"Kawoon", "Patrick", "Halil"} the size of this array is 3. last index is 2.
+    2)DataType[] nameOfArray=new DataType[size]
+    int[] numbers=new int[5]; the size of numbers array is 5. the last index is 4.
